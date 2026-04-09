@@ -77,8 +77,8 @@
     "title": "Chapter One",
     "category": "books",
     "description": "Books and literary works",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/books-store"
   },
   {
     "id": 10,
