@@ -140,8 +140,8 @@
     "title": "Clear View",
     "category": "fashion",
     "description": "Eyeglasses and sunglasses",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/eyewear-store"
   },
   {
     "id": 17,
