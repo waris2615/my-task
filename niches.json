@@ -41,8 +41,8 @@
     "title": "Modern Living",
     "category": "home",
     "description": "Contemporary furniture",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/furniture-home"
   },
   {
     "id": 6,
