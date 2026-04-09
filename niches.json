@@ -158,8 +158,8 @@
     "title": "Creative Canvas",
     "category": "art",
     "description": "Art materials and supplies",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/art-supplies"
   },
   {
     "id": 19,
