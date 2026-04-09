@@ -86,8 +86,8 @@
     "title": "Iron Strength",
     "category": "fitness",
     "description": "Gym equipment",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/fitness-equipment"
   },
   {
     "id": 11,
