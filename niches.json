@@ -14,8 +14,8 @@
     "title": "TechGear Hub",
     "category": "electronics",
     "description": "Phone cases, chargers, and gadgets",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/phone-accessories"
   },
   {
     "id": 3,
