@@ -1,22 +1,182 @@
 [
-  {"id": 1, "name": "clothing-store", "title": "Luxe Fashion", "category": "clothing", "description": "Premium fashion boutique", "done": false, "repo": ""},
-  {"id": 2, "name": "phone-accessories", "title": "TechGear Hub", "category": "electronics", "description": "Phone cases, chargers, and gadgets", "done": false, "repo": ""},
-  {"id": 3, "name": "kitchen-equipment", "title": "Chef's Kitchen", "category": "home", "description": "Professional kitchen tools", "done": false, "repo": ""},
-  {"id": 4, "name": "jewelry-store", "title": "Golden Gems", "category": "jewelry", "description": "Fine jewelry and watches", "done": false, "repo": ""},
-  {"id": 5, "name": "furniture-home", "title": "Modern Living", "category": "home", "description": "Contemporary furniture", "done": false, "repo": ""},
-  {"id": 6, "name": "beauty-cosmetics", "title": "Glow Beauty", "category": "beauty", "description": "Skincare and cosmetics", "done": false, "repo": ""},
-  {"id": 7, "name": "sports-gear", "title": "Peak Performance", "category": "sports", "description": "Athletic equipment", "done": false, "repo": ""},
-  {"id": 8, "name": "pet-supplies", "title": "Paws & Claws", "category": "pets", "description": "Pet food and accessories", "done": false, "repo": ""},
-  {"id": 9, "name": "books-store", "title": "Chapter One", "category": "books", "description": "Books and literary works", "done": false, "repo": ""},
-  {"id": 10, "name": "fitness-equipment", "title": "Iron Strength", "category": "fitness", "description": "Gym equipment", "done": false, "repo": ""},
-  {"id": 11, "name": "baby-products", "title": "Little Sprouts", "category": "baby", "description": "Baby care products", "done": false, "repo": ""},
-  {"id": 12, "name": "automotive-parts", "title": "AutoPro Garage", "category": "automotive", "description": "Car parts and accessories", "done": false, "repo": ""},
-  {"id": 13, "name": "garden-tools", "title": "Green Thumb", "category": "garden", "description": "Gardening equipment", "done": false, "repo": ""},
-  {"id": 14, "name": "music-instruments", "title": "Sound Studio", "category": "music", "description": "Musical instruments", "done": false, "repo": ""},
-  {"id": 15, "name": "coffee-shop", "title": "Bean & Brew", "category": "food", "description": "Coffee and cafe supplies", "done": false, "repo": ""},
-  {"id": 16, "name": "eyewear-store", "title": "Clear View", "category": "fashion", "description": "Eyeglasses and sunglasses", "done": false, "repo": ""},
-  {"id": 17, "name": "luggage-bags", "title": "Travel Easy", "category": "travel", "description": "Luggage and travel bags", "done": false, "repo": ""},
-  {"id": 18, "name": "art-supplies", "title": "Creative Canvas", "category": "art", "description": "Art materials and supplies", "done": false, "repo": ""},
-  {"id": 19, "name": "organic-foods", "title": "Pure Harvest", "category": "food", "description": "Organic groceries", "done": false, "repo": ""},
-  {"id": 20, "name": "gaming-accessories", "title": "Level Up Gaming", "category": "gaming", "description": "Gaming peripherals", "done": false, "repo": ""}
+  {
+    "id": 1,
+    "name": "clothing-store",
+    "title": "Luxe Fashion",
+    "category": "clothing",
+    "description": "Premium fashion boutique",
+    "done": true,
+    "repo": "https://waris2615.github.io/clothing-store"
+  },
+  {
+    "id": 2,
+    "name": "phone-accessories",
+    "title": "TechGear Hub",
+    "category": "electronics",
+    "description": "Phone cases, chargers, and gadgets",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 3,
+    "name": "kitchen-equipment",
+    "title": "Chef's Kitchen",
+    "category": "home",
+    "description": "Professional kitchen tools",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 4,
+    "name": "jewelry-store",
+    "title": "Golden Gems",
+    "category": "jewelry",
+    "description": "Fine jewelry and watches",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 5,
+    "name": "furniture-home",
+    "title": "Modern Living",
+    "category": "home",
+    "description": "Contemporary furniture",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 6,
+    "name": "beauty-cosmetics",
+    "title": "Glow Beauty",
+    "category": "beauty",
+    "description": "Skincare and cosmetics",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 7,
+    "name": "sports-gear",
+    "title": "Peak Performance",
+    "category": "sports",
+    "description": "Athletic equipment",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 8,
+    "name": "pet-supplies",
+    "title": "Paws & Claws",
+    "category": "pets",
+    "description": "Pet food and accessories",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 9,
+    "name": "books-store",
+    "title": "Chapter One",
+    "category": "books",
+    "description": "Books and literary works",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 10,
+    "name": "fitness-equipment",
+    "title": "Iron Strength",
+    "category": "fitness",
+    "description": "Gym equipment",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 11,
+    "name": "baby-products",
+    "title": "Little Sprouts",
+    "category": "baby",
+    "description": "Baby care products",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 12,
+    "name": "automotive-parts",
+    "title": "AutoPro Garage",
+    "category": "automotive",
+    "description": "Car parts and accessories",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 13,
+    "name": "garden-tools",
+    "title": "Green Thumb",
+    "category": "garden",
+    "description": "Gardening equipment",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 14,
+    "name": "music-instruments",
+    "title": "Sound Studio",
+    "category": "music",
+    "description": "Musical instruments",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 15,
+    "name": "coffee-shop",
+    "title": "Bean & Brew",
+    "category": "food",
+    "description": "Coffee and cafe supplies",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 16,
+    "name": "eyewear-store",
+    "title": "Clear View",
+    "category": "fashion",
+    "description": "Eyeglasses and sunglasses",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 17,
+    "name": "luggage-bags",
+    "title": "Travel Easy",
+    "category": "travel",
+    "description": "Luggage and travel bags",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 18,
+    "name": "art-supplies",
+    "title": "Creative Canvas",
+    "category": "art",
+    "description": "Art materials and supplies",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 19,
+    "name": "organic-foods",
+    "title": "Pure Harvest",
+    "category": "food",
+    "description": "Organic groceries",
+    "done": false,
+    "repo": ""
+  },
+  {
+    "id": 20,
+    "name": "gaming-accessories",
+    "title": "Level Up Gaming",
+    "category": "gaming",
+    "description": "Gaming peripherals",
+    "done": false,
+    "repo": ""
+  }
 ]
