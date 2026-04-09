@@ -68,8 +68,8 @@
     "title": "Paws & Claws",
     "category": "pets",
     "description": "Pet food and accessories",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/pet-supplies"
   },
   {
     "id": 9,
