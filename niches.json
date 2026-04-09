@@ -14,8 +14,8 @@
     "title": "TechGear Hub",
     "category": "electronics",
     "description": "Phone cases, chargers, and gadgets",
-    "done": true,
-    "repo": "https://waris2615.github.io/phone-accessories"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 3,
@@ -23,8 +23,8 @@
     "title": "Chef's Kitchen",
     "category": "home",
     "description": "Professional kitchen tools",
-    "done": true,
-    "repo": "https://waris2615.github.io/kitchen-equipment"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 4,
@@ -32,8 +32,8 @@
     "title": "Golden Gems",
     "category": "jewelry",
     "description": "Fine jewelry and watches",
-    "done": true,
-    "repo": "https://waris2615.github.io/jewelry-store"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 5,
@@ -41,8 +41,8 @@
     "title": "Modern Living",
     "category": "home",
     "description": "Contemporary furniture",
-    "done": true,
-    "repo": "https://waris2615.github.io/furniture-home"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 6,
@@ -50,8 +50,8 @@
     "title": "Glow Beauty",
     "category": "beauty",
     "description": "Skincare and cosmetics",
-    "done": true,
-    "repo": "https://waris2615.github.io/beauty-cosmetics"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 7,
@@ -59,8 +59,8 @@
     "title": "Peak Performance",
     "category": "sports",
     "description": "Athletic equipment",
-    "done": true,
-    "repo": "https://waris2615.github.io/sports-gear"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 8,
@@ -68,8 +68,8 @@
     "title": "Paws & Claws",
     "category": "pets",
     "description": "Pet food and accessories",
-    "done": true,
-    "repo": "https://waris2615.github.io/pet-supplies"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 9,
@@ -77,8 +77,8 @@
     "title": "Chapter One",
     "category": "books",
     "description": "Books and literary works",
-    "done": true,
-    "repo": "https://waris2615.github.io/books-store"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 10,
@@ -86,8 +86,8 @@
     "title": "Iron Strength",
     "category": "fitness",
     "description": "Gym equipment",
-    "done": true,
-    "repo": "https://waris2615.github.io/fitness-equipment"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 11,
@@ -95,8 +95,8 @@
     "title": "Little Sprouts",
     "category": "baby",
     "description": "Baby care products",
-    "done": true,
-    "repo": "https://waris2615.github.io/baby-products"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 12,
@@ -104,8 +104,8 @@
     "title": "AutoPro Garage",
     "category": "automotive",
     "description": "Car parts and accessories",
-    "done": true,
-    "repo": "https://waris2615.github.io/automotive-parts"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 13,
@@ -113,8 +113,8 @@
     "title": "Green Thumb",
     "category": "garden",
     "description": "Gardening equipment",
-    "done": true,
-    "repo": "https://waris2615.github.io/garden-tools"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 14,
@@ -122,8 +122,8 @@
     "title": "Sound Studio",
     "category": "music",
     "description": "Musical instruments",
-    "done": true,
-    "repo": "https://waris2615.github.io/music-instruments"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 15,
@@ -131,8 +131,8 @@
     "title": "Bean & Brew",
     "category": "food",
     "description": "Coffee and cafe supplies",
-    "done": true,
-    "repo": "https://waris2615.github.io/coffee-shop"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 16,
@@ -140,8 +140,8 @@
     "title": "Clear View",
     "category": "fashion",
     "description": "Eyeglasses and sunglasses",
-    "done": true,
-    "repo": "https://waris2615.github.io/eyewear-store"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 17,
@@ -149,8 +149,8 @@
     "title": "Travel Easy",
     "category": "travel",
     "description": "Luggage and travel bags",
-    "done": true,
-    "repo": "https://waris2615.github.io/luggage-bags"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 18,
@@ -158,8 +158,8 @@
     "title": "Creative Canvas",
     "category": "art",
     "description": "Art materials and supplies",
-    "done": true,
-    "repo": "https://waris2615.github.io/art-supplies"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 19,
@@ -167,8 +167,8 @@
     "title": "Pure Harvest",
     "category": "food",
     "description": "Organic groceries",
-    "done": true,
-    "repo": "https://waris2615.github.io/organic-foods"
+    "done": false,
+    "repo": ""
   },
   {
     "id": 20,
@@ -176,7 +176,7 @@
     "title": "Level Up Gaming",
     "category": "gaming",
     "description": "Gaming peripherals",
-    "done": true,
-    "repo": "https://waris2615.github.io/gaming-accessories"
+    "done": false,
+    "repo": ""
   }
 ]
