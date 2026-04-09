@@ -104,8 +104,8 @@
     "title": "AutoPro Garage",
     "category": "automotive",
     "description": "Car parts and accessories",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/automotive-parts"
   },
   {
     "id": 13,
