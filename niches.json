@@ -113,8 +113,8 @@
     "title": "Green Thumb",
     "category": "garden",
     "description": "Gardening equipment",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/garden-tools"
   },
   {
     "id": 14,
