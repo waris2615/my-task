@@ -122,8 +122,8 @@
     "title": "Sound Studio",
     "category": "music",
     "description": "Musical instruments",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/music-instruments"
   },
   {
     "id": 15,
