@@ -23,8 +23,8 @@
     "title": "Chef's Kitchen",
     "category": "home",
     "description": "Professional kitchen tools",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/kitchen-equipment"
   },
   {
     "id": 4,
