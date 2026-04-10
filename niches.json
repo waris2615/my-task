@@ -32,8 +32,8 @@
     "title": "Golden Gems",
     "category": "jewelry",
     "description": "Fine jewelry and watches",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/jewelry-store"
   },
   {
     "id": 5,
