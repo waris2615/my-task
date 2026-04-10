@@ -95,8 +95,8 @@
     "title": "Little Sprouts",
     "category": "baby",
     "description": "Baby care products",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/baby-products"
   },
   {
     "id": 12,
