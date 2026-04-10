@@ -50,8 +50,8 @@
     "title": "Glow Beauty",
     "category": "beauty",
     "description": "Skincare and cosmetics",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/beauty-cosmetics"
   },
   {
     "id": 7,
