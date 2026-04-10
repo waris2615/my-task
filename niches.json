@@ -149,8 +149,8 @@
     "title": "Travel Easy",
     "category": "travel",
     "description": "Luggage and travel bags",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/luggage-bags"
   },
   {
     "id": 18,
