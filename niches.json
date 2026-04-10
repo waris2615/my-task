@@ -131,8 +131,8 @@
     "title": "Bean & Brew",
     "category": "food",
     "description": "Coffee and cafe supplies",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/coffee-shop"
   },
   {
     "id": 16,
