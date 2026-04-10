@@ -167,8 +167,8 @@
     "title": "Pure Harvest",
     "category": "food",
     "description": "Organic groceries",
-    "done": false,
-    "repo": ""
+    "done": true,
+    "repo": "https://waris2615.github.io/organic-foods"
   },
   {
     "id": 20,
