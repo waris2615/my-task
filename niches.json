@@ -1,9 +1,212 @@
 [
   {
+    "id": 1,
+    "name": "plumbing-services",
+    "title": "Quick Fix Plumbing",
+    "category": "services",
+    "description": "Professional plumber services"
+  },
+  {
+    "id": 2,
+    "name": "solar-energy",
+    "title": "SunPower Solar",
+    "category": "services",
+    "description": "Solar panel installation"
+  },
+  {
+    "id": 3,
+    "name": "house-cleaning",
+    "title": "Sparkle Clean",
+    "category": "services",
+    "description": "Professional cleaning services"
+  },
+  {
     "id": 4,
     "name": "jewelry-store",
     "title": "Golden Gems",
     "category": "jewelry",
     "description": "Fine jewelry and watches"
+  },
+  {
+    "id": 5,
+    "name": "electrician-pro",
+    "title": "Bright Spark Electric",
+    "category": "services",
+    "description": "Electrical contractor services"
+  },
+  {
+    "id": 6,
+    "name": "hvac-services",
+    "title": "Cool Air Pros",
+    "category": "services",
+    "description": "Heating and cooling services"
+  },
+  {
+    "id": 7,
+    "name": "roofing-company",
+    "title": "Top Roof Pros",
+    "category": "services",
+    "description": "Roofing repair and installation"
+  },
+  {
+    "id": 8,
+    "name": "pizza-shop",
+    "title": "Slice of Heaven",
+    "category": "food",
+    "description": "Artisan pizza restaurant"
+  },
+  {
+    "id": 9,
+    "name": "burger-joint",
+    "title": "Burger Boss",
+    "category": "food",
+    "description": "Gourmet burger restaurant"
+  },
+  {
+    "id": 10,
+    "name": "sushi-restaurant",
+    "title": "Tokyo Roll",
+    "category": "food",
+    "description": "Japanese sushi bar"
+  },
+  {
+    "id": 11,
+    "name": "taco-truck",
+    "title": "Taco Loco",
+    "category": "food",
+    "description": "Mexican street food"
+  },
+  {
+    "id": 12,
+    "name": "ice-cream-shop",
+    "title": "Sweet Scoops",
+    "category": "food",
+    "description": "Artisan ice cream parlor"
+  },
+  {
+    "id": 13,
+    "name": "dog-grooming",
+    "title": "Paw Perfect",
+    "category": "pets",
+    "description": "Pet grooming services"
+  },
+  {
+    "id": 14,
+    "name": "vet-clinic",
+    "title": "Pet Care Plus",
+    "category": "pets",
+    "description": "Veterinary clinic"
+  },
+  {
+    "id": 15,
+    "name": "gym-fitness",
+    "title": "Iron Pump Gym",
+    "category": "fitness",
+    "description": "Fitness center"
+  },
+  {
+    "id": 16,
+    "name": "yoga-studio",
+    "title": "Zen Flow Yoga",
+    "category": "fitness",
+    "description": "Yoga and meditation"
+  },
+  {
+    "id": 17,
+    "name": "salon-hair",
+    "title": "Style Studio",
+    "category": "beauty",
+    "description": "Hair salon"
+  },
+  {
+    "id": 18,
+    "name": "nail-salon",
+    "title": "Nail Artistry",
+    "category": "beauty",
+    "description": "Nail spa services"
+  },
+  {
+    "id": 19,
+    "name": "lawn-care",
+    "title": "Green Paradise",
+    "category": "services",
+    "description": "Landscaping and lawn care"
+  },
+  {
+    "id": 20,
+    "name": "painting-services",
+    "title": "Color Masters",
+    "category": "services",
+    "description": "Interior/exterior painting"
+  },
+  {
+    "id": 21,
+    "name": "car-wash",
+    "title": "Shine Auto Wash",
+    "category": "automotive",
+    "description": "Car detailing services"
+  },
+  {
+    "id": 22,
+    "name": "auto-mechanic",
+    "title": "Pro Auto Fix",
+    "category": "automotive",
+    "description": "Auto repair shop"
+  },
+  {
+    "id": 23,
+    "name": "moving-company",
+    "title": "Swift Movers",
+    "category": "services",
+    "description": "Moving and storage"
+  },
+  {
+    "id": 24,
+    "name": "photography",
+    "title": "Captured Moments",
+    "category": "services",
+    "description": "Professional photography"
+  },
+  {
+    "id": 25,
+    "name": "bakery",
+    "title": "Sweet Delights",
+    "category": "food",
+    "description": "Artisan bakery"
+  },
+  {
+    "id": 26,
+    "name": "wine-shop",
+    "title": "Vintage Vines",
+    "category": "food",
+    "description": "Wine store"
+  },
+  {
+    "id": 27,
+    "name": "hardware-store",
+    "title": "Handy Hardware",
+    "category": "retail",
+    "description": "Hardware supplies"
+  },
+  {
+    "id": 28,
+    "name": "florist",
+    "title": "Bloom Garden",
+    "category": "retail",
+    "description": "Flower shop"
+  },
+  {
+    "id": 29,
+    "name": "window-cleaning",
+    "title": "Crystal Clear Windows",
+    "category": "services",
+    "description": "Window cleaning services"
+  },
+  {
+    "id": 30,
+    "name": "home-security",
+    "title": "SafeHome Security",
+    "category": "services",
+    "description": "Security system installation"
   }
 ]
